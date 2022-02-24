@@ -7,5 +7,5 @@
 
 ## let's create something amazing
 
-<a class="link" href="">my link</a>
+<a style="color: red" class="link" href="">my link</a>
 </body>
