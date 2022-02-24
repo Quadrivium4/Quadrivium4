@@ -1,11 +1,8 @@
 <head>
-<style>
-    .link{
-        color: red;
-    }
-</style>
+<link rel="stylesheet" href="style.css">
 </head>
 <body>
+
 # H! I'm Miguel
 
 ## let's create something amazing
