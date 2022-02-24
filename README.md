@@ -1,5 +1,10 @@
+<style>
+    .link{
+        color: red;
+    }
+</style>
 # H! I'm Miguel
 
 ## let's create something amazing
 
-<a href="">my link</a>
+<a class="link" href="">my link</a>
