@@ -1,5 +1,7 @@
 <head>
+<foreignObject>
 <link rel="stylesheet" href="style.css">
+</foreignObject>
 </head>
 <body>
 
