@@ -1,4 +1,5 @@
 <img src="/img/intro.png">
+
 # About
 I'm web developer, and I love learn new technologies,
 I started to programming with C and next I joined [FreeCodeCamp](https://www.freecodecamp.org/), where I learned **Html**, **Css** and **JavaScript**.
