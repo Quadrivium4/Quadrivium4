@@ -1,3 +1,6 @@
 <img src="/img/intro.png">
-
-# hi
+# About
+I'm web developer, and I love learn new technologies,
+I started to programming with C and next I joined [FreeCodeCamp](https://www.freecodecamp.org/), where I learned **Html**, **Css** and **JavaScript**.
+I used a little also **Three.js** and **jQuery**.
+Now I'm learning **php** , **Wordpress** and I'm really interested to Open Source!
