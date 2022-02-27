@@ -8,5 +8,5 @@ Now I'm learning **php** , **Wordpress** and I'm really interested to Open Sourc
 
 # Contact
 Work e-mail: coder.quadrivium4@gmail.com<br>
-Personal e-mail: miguelgiacobbe@gmail.com
-[freeCodeCamp account](https://www.freecodecamp.org/procoder4)
+Personal e-mail: miguelgiacobbe@gmail.com<br>
+My [freeCodeCamp account](https://www.freecodecamp.org/procoder4)
