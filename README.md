@@ -1,4 +1,4 @@
-<img src="/img/intro.png">
+
 
 # About
 I'm web developer, and I love learn new technologies, <br>
